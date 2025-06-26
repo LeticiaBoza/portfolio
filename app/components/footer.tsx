@@ -14,7 +14,7 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row justify-center items-center gap-6 mb-12">
           <a
-            href="mailto:leticia@exemplo.com"
+            href="mailto:devleticiaboza@gmail.com"
             className="flex items-center gap-2 bg-[#6c7086] hover:bg-[#7c8096] px-6 py-3 rounded-lg transition-colors duration-200"
           >
             <Mail size={20} />
@@ -30,7 +30,9 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="#"
+            href="https://github.com/LeticiaBoza"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 border border-[#6c7086] text-[#6c7086] hover:bg-[#6c7086] hover:text-white px-6 py-3 rounded-lg transition-colors duration-200"
           >
             <Github size={20} />

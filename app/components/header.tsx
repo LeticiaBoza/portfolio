@@ -1,10 +1,10 @@
-"use client"
+"use client";
 
-import { useState } from "react"
-import { Menu, X } from "lucide-react"
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
 
 export default function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const menuItems = [
     { href: "#sobre", label: "Sobre" },
@@ -13,13 +13,13 @@ export default function Header() {
     { href: "#habilidades", label: "Habilidades" },
     { href: "#voluntario", label: "Voluntário" },
     { href: "#contato", label: "Contato" },
-  ]
+  ];
 
   return (
     <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm border-b border-gray-100 z-50">
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="text-xl font-bold text-[#1e1e2e]">Letícia Boza</div>
+          <div className="text-xl font-bold text-[#1e1e2e]">Meu Portfólio</div>
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
@@ -35,7 +35,10 @@ export default function Header() {
           </div>
 
           {/* Mobile Menu Button */}
-          <button className="md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
+          <button
+            className="md:hidden"
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+          >
             {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
           </button>
         </div>
@@ -57,5 +60,5 @@ export default function Header() {
         )}
       </nav>
     </header>
-  )
+  );
 }
