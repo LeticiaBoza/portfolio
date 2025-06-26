@@ -1,30 +1,48 @@
-# Leticia Boza LinkedIn
+# 🌟 Portfólio - Letícia Boza
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+> Portfólio profissional moderno e responsivo desenvolvido com Next.js 15, TypeScript e Tailwind CSS.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/leticia-bozas-projects/v0-leticia-boza-linked-in)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/j8cQODMKqEM)
+![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
 
-## Overview
+## 📋 Sobre o Projeto
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Este é o meu portfólio profissional de **Letícia Boza Assumpção**, Quality Assurance Analyst e Desenvolvedora. O site apresenta de forma elegante e minimalista minha experiência profissional, formação acadêmica, habilidades técnicas e projetos voluntários.
 
-## Deployment
+## 🚀 Tecnologias Utilizadas
 
-Your project is live at:
+### Frontend
+- **Next.js 15** - Framework React com App Router
+- **React 19** - Biblioteca para interfaces de usuário
+- **TypeScript** - Tipagem estática para JavaScript
+- **Tailwind CSS** - Framework CSS utilitário
 
-**[https://vercel.com/leticia-bozas-projects/v0-leticia-boza-linked-in](https://vercel.com/leticia-bozas-projects/v0-leticia-boza-linked-in)**
+### Ferramentas de Desenvolvimento
+- **ESLint** - Linting de código
+- **PostCSS** - Processamento de CSS
+- **Autoprefixer** - Prefixos CSS automáticos
 
-## Build your app
+### Componentes UI
+- **Radix UI** - Componentes acessíveis e customizáveis
+- **Lucide React** - Ícones modernos e consistentes
+- **Class Variance Authority** - Gerenciamento de variantes de classe
 
-Continue building your app on:
+## 📄 Licença
 
-**[https://v0.dev/chat/projects/j8cQODMKqEM](https://v0.dev/chat/projects/j8cQODMKqEM)**
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## How It Works
+## 👩‍💻 Autora
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**Letícia Boza Assumpção**
+- LinkedIn: [@leticiaboza](https://www.linkedin.com/in/leticiaboza/)
+- Email: [seu-email@exemplo.com](mailto:devleticiaboza@gmail.com)
+- GitHub: [@seu-usuario](https://github.com/leticiaboza)
+
+---
+
+<div align="center">
+  <p>Feito com ❤️ e ☕ por Letícia Boza</p>
+  <p>© 2025 - Todos os direitos reservados</p>
+</div>
