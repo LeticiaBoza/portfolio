@@ -58,7 +58,7 @@ export default function Hero() {
               <div className="relative bg-gradient-to-br from-[#6c7086]/10 to-purple-100/50 p-8 rounded-2xl shadow-2xl backdrop-blur-sm border border-white/20">
                 <div className="w-64 h-64 sm:w-80 sm:h-80 bg-gradient-to-br from-[#6c7086]/20 to-purple-200/30 rounded-2xl flex items-center justify-center">
                   <img
-                    src="/img/perfil1.png"
+                    src="img/perfil1.png"
                     alt="Letícia Boza Assumpção"
                     className="w-64 h-64 sm:w-80 sm:h-80 object-cover rounded-2xl shadow-lg"
                   />
